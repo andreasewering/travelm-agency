@@ -1,0 +1,2 @@
+# fallback-language: en
+key = German value

@@ -1,0 +1,2 @@
+key = English value
+otherKey = other english value 
